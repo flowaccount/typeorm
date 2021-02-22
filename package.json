@@ -1,13 +1,13 @@
 {
-  "name": "@beamdev/typeorm",
+  "name": "@flowaccount/typeorm",
   "private": true,
   "version": "0.2.34",
   "description": "Data-Mapper ORM for TypeScript, ES7, ES6, ES5. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, MongoDB databases.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "author": {
-    "name": "Sorrasak Phonklad",
-    "email": "sorrasak.developer@gmail.com"
+    "name": "FlowAccount Core Team",
+    "email": "developer@flowaccount.com"
   },
   "main": "./index.js",
   "browser": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cabelo-doido/typeorm.git"
+    "url": "https://github.com/flowaccount/typeorm.git"
   },
   "bugs": {
-    "url": "https://github.com/cabelo-doido/typeorm/issues"
+    "url": "https://github.com/flowaccount/typeorm/issues"
   },
   "tags": [
     "orm",
