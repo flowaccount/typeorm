@@ -134,7 +134,6 @@ export class DriverUtils {
         let port = undefined;
         let hostReplicaSet = undefined;
         let replicaSet = undefined;
-        
         let optionsObject: any = {};
 
         if (afterBase && afterBase.indexOf("?") !== -1) {
